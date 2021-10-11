@@ -1,2 +1,2 @@
 # Old-Experiences
-Our previous created experiences that are open sourced.
+Our old experiences we created over the years, which we made open source for any purposes.
